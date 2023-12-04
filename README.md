@@ -16,7 +16,7 @@ https://github.com/AndrewLukashchuk202/Unity2DGame_LoserAndrew/assets/138094541/
 | Name | Deaths |
 | ---- | ------ |
 | 🔥Bailey Marr🔥 | 167 |
-| Jan Sk | 187 |
+| 🥈Jan Sk🥈 | 187 |
 
 
 ## Game Design 
