@@ -37,3 +37,20 @@ Background, Terrain (main area where a character can walk), Collectible Items (C
 **End Menu:**
 ![image](https://github.com/AndrewLukashchuk202/Unity2DGame_LoserAndrew/assets/138094541/482051cd-8a57-49cc-96ea-dccbe447f78b)
 
+## Full Project (Code and Assets):
+
+If you wish to explore the entire Unity game project, including code and assets, follow these steps:
+
+1. Install Unity Game Engine from [Unity.com](https://unity.com/ru).
+2. Clone or download the entire repository.
+
+## Quick Play (Executable):
+
+Alternatively, for a quick gaming experience, follow these steps:
+
+1. Download the Game folder.
+2. Open Loser Andrew.exe to start playing.
+
+Enjoy the game!
+
+Note: Ensure that your system meets the Unity Game Engine requirements for the optimal gaming experience.
